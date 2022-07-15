@@ -1,2 +1,3 @@
 # advances-in-reinforcement-learning
-This repository contains the report and presentation of seminar "Advances in Reinforcement Learning". The topic of the seminar is **Reinforcement Learning in Continous Action Spaces through sequential monte carlo methods**.
+The topic of the seminar is **Reinforcement Learning in Continous Action Spaces through sequential monte carlo methods**. In this seminar an innovative actor-critic methodology is proposed in which the action taken by the actor is estimated through sequential monte carlo methods.__
+Pre-requisites for seminar
